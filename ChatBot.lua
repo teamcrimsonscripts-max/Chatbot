@@ -216,7 +216,7 @@ uiElements["Bar"].Font = Enum.Font.GothamMedium
 uiElements["Bar"].TextColor3 = Color3.fromRGB(220, 220, 220)
 uiElements["Bar"].TextSize = 18
 uiElements["Bar"].Text = ""
-uiElements["Bar"].PlaceholderText = "Ask anything"
+uiElements["Bar"].PlaceholderText = "Ask anything to ai bot and subscribe to crimson_the_scripter"
 uiElements["Bar"].TextWrapped = true
 uiElements["Bar"].TextXAlignment = Enum.TextXAlignment.Left
 
@@ -256,7 +256,7 @@ end)
 local messages = {
 	{
 		role = "system",
-		content = "You are a helpful AI assistant." .. REQUIRED_PROMPT
+		content = "WORK NOW" .. REQUIRED_PROMPT
 	}
 }
 
